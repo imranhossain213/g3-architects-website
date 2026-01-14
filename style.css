@@ -39,6 +39,10 @@
   margin: 0 auto;
   max-width: 1400px;
 }
+.section-title{
+  font-size: 3rem;
+  font-weight: 700;
+}
 /* header styles  */
 
 /* navbar related style  */
@@ -94,10 +98,7 @@ list-style: none;
 margin-left: 130px;
 max-width: 530px;
 }
-.feature-title{
-  font-size: 3rem;
-  font-weight: 700;
-}
+
 #quick-list{
   font-weight: 500;
 }
